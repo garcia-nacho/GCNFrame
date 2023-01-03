@@ -14,6 +14,7 @@ This is a python package for genomics study with a GP-GCN (Gapped Pattern Graph 
 + pytorch\_geometric 1.7.0
 + python==3.8
 + torch-sparse
++ torch_scatter
 
 ## Install
 ```shell
