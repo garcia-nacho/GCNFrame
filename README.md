@@ -5,13 +5,15 @@ This is a python package for genomics study with a GP-GCN (Gapped Pattern Graph 
 
 # Getting started
 
-## Prerequisite
+## Prerequisites
 + cython
 + numpy
 + Biopython
 + editdistance
 + pytorch 1.7.1
 + pytorch\_geometric 1.7.0
++ python==3.8
++ torch-sparse
 
 ## Install
 ```shell
